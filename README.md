@@ -22,15 +22,8 @@ git push -u origin main
 
 # Modificações
 
-# 1. Ver o que mudou
 git status
 
-# 2. Adicionar arquivos modificados
 git add .
-# Ou adicionar arquivo específico: git add template.docx
-
-# 3. Fazer commit com mensagem
 git commit -m "Atualiza template com novos campos"
-
-# 4. Enviar para o GitHub
 git push
